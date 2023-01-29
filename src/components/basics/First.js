@@ -2,7 +2,7 @@ import React from "react"
 
 
 export default function() {
-    const texto = "Meu texto"
+    const texto = "1- Passando valores fixos"
     return (
         <div>
            <strong>{ texto}</strong>
